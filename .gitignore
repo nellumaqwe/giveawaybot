@@ -1,2 +1,5 @@
 settings.py
 .env
+bots.sql
+giveaways.sql
+users.sql
